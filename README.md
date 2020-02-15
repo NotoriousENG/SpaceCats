@@ -1,5 +1,7 @@
 # SpaceCats
 UF CISE Senior Project
+
+## Preview of Current Downloadable Build
 ![Alt text](spaceCats.gif?raw=true "Title")
 
 ## Design
