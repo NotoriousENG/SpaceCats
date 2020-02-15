@@ -1,5 +1,6 @@
 # SpaceCats
 UF CISE Senior Project
+![Alt text](spaceCats.gif?raw=true "Title")
 
 ## Design
 ### https://docs.google.com/document/d/19sWAvjxxbWomMB6TS7d1epoBGxZ7nj3c_xIuRuWD_g0/edit?usp=sharing
