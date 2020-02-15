@@ -11,6 +11,9 @@ In Space Cats you are thrust into an intergalactic space war, full of color and 
 ## Status
 We are in the post-prototype/ pre-Alpha phase.
 
+## Trello Board
+https://trello.com/b/HlM3llJs/space-cats
+
 ## How to Play
 1. Download and extract Prototype (Win64).7z
 2. Run "Space Cats.exe"
