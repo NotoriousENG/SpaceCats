@@ -18,3 +18,7 @@ We are in the post-prototype/ pre-Alpha phase.
 Arrows/WASD/Left_Joystick
 ### Fire: 
 LeftCtrl/LeftClick/(Face Buttons/Trigger on Joystick)
+### Restart:
+Submit/Return/SpaceBar
+### Exit:
+Cancel/Escape
