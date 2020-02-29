@@ -1,7 +1,7 @@
 # SpaceCats
 UF CISE Senior Project
 
-## Preview of Current Downloadable Build
+## Old Preview of Prototype Build
 ![Alt text](spaceCats.gif?raw=true "Title")
 
 ## Design
@@ -9,13 +9,13 @@ UF CISE Senior Project
 In Space Cats you are thrust into an intergalactic space war, full of color and life, and yes cats! Get your Sparklers and Nukez (weapons) ready, you’re in for a wild ride! Space Cats’s low poly aesthetic feels like a fever dream crossover of games like Way to the Woods, Watam, and StarFox 64. 
 
 ## Status
-We are in the post-prototype/ pre-Alpha phase.
+We are in the post-Alpha phase.
 
 ## Trello Board
 https://trello.com/b/HlM3llJs/space-cats
 
 ## How to Play
-1. Download and extract Prototype (Win64).7z
+1. Download and extract Alpha (Win64).7z
 2. Run "Space Cats.exe"
 
 ## Controls
