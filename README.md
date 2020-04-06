@@ -9,7 +9,7 @@ UF CISE Senior Project
 In Space Cats you are thrust into an intergalactic space war, full of color and life, and yes cats! Get your Sparklers and Nukez (weapons) ready, you’re in for a wild ride! Space Cats’s low poly aesthetic feels like a fever dream crossover of games like Way to the Woods, Watam, and StarFox 64. 
 
 ## Status
-We are in our beta phase and have drastically improved the camera and on rails system, Our beta will be released by the end of the month.
+We are in our post beta phase, our beta had many bugs we did not anticipate, so we are making a QA build by the 10th to help us stay on track to make Space Cats! the best game it can be by its gold-master milestone.
 
 ## Trello Board
 https://trello.com/b/HlM3llJs/space-cats
