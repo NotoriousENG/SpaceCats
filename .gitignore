@@ -6,3 +6,10 @@ Beta(Win64)\
 Beta(Win64)/
 Beta(V2)(Win64)\
 Beta(V2)(Win64)/
+Final(Win64)\
+Final(Win64)/
+Final(MacOSX).app
+Final(MacOSX).app\
+Final(MacOSX).app/
+Final(Linux64)\
+Final(Linux64)/
