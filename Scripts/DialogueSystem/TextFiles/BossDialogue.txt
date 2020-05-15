@@ -1,0 +1,35 @@
+[NAME=Emperor Lovebug] [IMAGE=lovebug]
+
+I'm glad I could reach you Space Cats! ^
+
+[NAME=Emperor Lovebug] [IMAGE=lovebug] 
+
+Muwahaha you feeble fleabrain!
+
+You have entered my low-fidelity Realm!
+
+[NAME=Muffin] [IMAGE=muffin] 
+
+Mittens! Things are looking really bad, I have no choice but to charge my special attack!
+
+Try to take out his canons for me!
+
+[NAME=Mittens] [IMAGE=mittens] 
+
+Muffin! You can't, the planet busters are too dangerous!
+
+[NAME=Muffin] [IMAGE=muffin] 
+
+It's not the planet busters Mittens, come on we've only got one shot.
+
+[NAME=Emperor Lovebug] [IMAGE=lovebug] 
+
+It's pointless you fools, you'll never be able to take out my Death Bot!
+
+I shall compress you fools into delicious data, and use your cries of agony to make a new Lo-Fi EP that will shatter the universe!
+
+[NAME=Mittens] [IMAGE=mittens] 
+
+Your reign of terror is over Lovebug!
+
+EndQueue

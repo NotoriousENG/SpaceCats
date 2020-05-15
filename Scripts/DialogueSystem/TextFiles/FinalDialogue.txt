@@ -1,0 +1,29 @@
+[NAME=Emperor Lovebug] [IMAGE=lovebug]
+
+I'm glad I could reach you Space Cats! ^
+
+[NAME=Emperor Lovebug] [IMAGE=lovebug] 
+
+Fool, I am back and stronger than ever!
+
+Prepare yourself for my Nukez!
+
+[NAME=Muffin] [IMAGE=muffin] 
+
+Mittens! My attack is ready.
+
+[NAME=Mittens] [IMAGE=mittens] 
+
+Muffin! No!!!!!!!!!
+
+[NAME=Muffin] [IMAGE=muffin] 
+
+You have to live on!
+
+Remember me, ok?
+
+[NAME=Emperor Lovebug] [IMAGE=lovebug] 
+
+You fool! You'll destroy us both!
+
+EndQueue

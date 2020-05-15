@@ -1,0 +1,41 @@
+[NAME=Mittens] [IMAGE=mittens] 
+
+I'm glad I could reach you Space Cats! ^
+
+I'm glad I could reach you Space Cats! ^
+
+Cupcake come in, do you copy?
+
+Cupcake?
+
+...
+
+[NAME=Muffin] [IMAGE=Muffin] 
+
+...
+
+They'll pay for this!
+
+[NAME=Commeownder Snuggles] [IMAGE=Commeownder] 
+
+Mittens look out!
+
+Something's wrong with our captial Caitro.
+
+The roads and people are all gone, the buildings are ...
+
+... No .... not like this ...
+
+[NAME=Muffin] [IMAGE=Muffin] 
+
+Not the Commeownder too!
+
+[NAME=Mittens] [IMAGE=mittens] 
+
+How many more lives will I see flicker before me.
+
+Schala, am I still doing the right thing?
+
+If you were here, what would you say?
+
+EndQueue

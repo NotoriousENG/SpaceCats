@@ -1,0 +1,27 @@
+[NAME=Mittens] [IMAGE=mittens] 
+
+I'm glad I could reach you Space Cats! ^
+
+I'm glad I could reach you Space Cats! ^
+
+Planet Sparklez, Home Sweet Home.
+
+[NAME=Muffin] [IMAGE=muffin] 
+
+Something's wrong, look at the Blueberry Sea!
+
+[NAME=Dogfighter] [IMAGE=dog] 
+
+Muwahaha, soon to be a dead sea!
+
+[NAME=Cupcake] [IMAGE=cupcake] 
+
+You jerk!
+
+I'll turn your organs into a red sea!
+
+[NAME=Mittens] [IMAGE=mittens] 
+
+Cupcake, come back it's a trap!
+
+EndQueue

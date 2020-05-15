@@ -1,0 +1,88 @@
+[NAME=Commeownder Snuggles] [IMAGE=Commeownder] 
+
+I'm glad I could reach you Space Cats! ^
+
+I'm glad I could reach you Space Cats! ^
+
+Planet Sparkles is under attack by the Evil Emperor Lovebug.
+
+It’s up to you, Mittens to reform the Space Cats, and defend the Catlaxy!
+
+[NAME=Mittens] [IMAGE=mittens] 
+
+Leave it to us Commeownder ^!
+
+[NAME=Cupcake] [IMAGE=cupcake] 
+
+Mittens! Look out! There's some scary dogfighters ahead!
+
+[NAME=Dogfighter] [IMAGE=dog] 
+
+We meet again space cats! Prepare yourself for my pawsome attacks!
+
+[NAME=Mittens] [IMAGE=mittens] 
+
+Another innocent life to be sent to the grave.
+
+War never changes.
+
+... 
+
+[NAME=Cupcake] [IMAGE=cupcake] 
+
+Haha I made a doggo go boom! ^
+
+[NAME=Muffin] [IMAGE=muffin] 
+
+Enemy transmission incoming! Let's get ready to pounce!
+
+[NAME=Emperor Lovebug] [IMAGE=lovebug]
+
+Well if it isn't the pesky Space Cats!
+
+You little rats!
+
+[NAME=Muffin] [IMAGE=muffin] 
+
+You're one to talk fleabag!
+
+[NAME=Emperor Lovebug] [IMAGE=lovebug] 
+
+After years of being banashed to Alpha Caturion, I'm back!
+
+Here to ruin everything you and your friends care about!
+
+Just like you lot ruined my Lofi EP.
+
+Come to Planet Sparklez if you dare!
+
+[NAME=Mittens] [IMAGE=mittens] 
+
+Stop hiding behind your bonebrain lackeys already!
+
+Come on team lets go!
+
+
+
+EndQueue
+
+** Multiple choice ** (Needs work)
+
+But you'd probably still want everything in the same file right?
+
+[CHOICE=Y] YES
+[CHOICE=N] NO
+
+{Y} Well you're in luck, that's what we're doing here!
+
+{N} Ah, well you can really do a number of things, but I'll tell you my way.
+
+You need 2 things really.
+
+1) You need a way to mark choices.
+2) You need a way to mark the next line of dialogue to say.
+
+With these you could probably make a system to handle elementary branching dialouge.
+
+Too much branching dialogue could be a headache for this system, if you think this is necessary for your game, you'll definitely want to develop a more modular system..
+
